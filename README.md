@@ -1,7 +1,7 @@
 # 🎁 Amigo Secreto
 
 ---
-> ## 🟢 STATUS: **FINALIZADO**
+![Status](https://img.shields.io/badge/STATUS-FINALIZADO-brightgreen?style=flat-square)
 ---
 
 ¡Hola! 👋  
